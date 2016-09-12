@@ -30,10 +30,10 @@ If you are on an older version of React Native, you’ll need to keep using [Rea
 ## Documentation
 
 - [Redux: Usage with React](http://redux.js.org/docs/basics/UsageWithReact.html)
-- [API](docs/api.md#api)
-  - [`<Provider store>`](docs/api.md#provider-store)
-  - [`connect([mapStateToProps], [mapDispatchToProps], [mergeProps], [options])`](docs/api.md#connectmapstatetoprops-mapdispatchtoprops-mergeprops-options)
-- [Troubleshooting](docs/troubleshooting.md#troubleshooting)
+- [API](/docs/api.md#api)
+  - [`<Provider store>`](/docs/api.md#provider-store)
+  - [`connect([mapStateToProps], [mapDispatchToProps], [mergeProps], [options])`](/docs/api.md#connectmapstatetoprops-mapdispatchtoprops-mergeprops-options)
+- [Troubleshooting](/docs/troubleshooting.md#troubleshooting)
 
 ## How Does It Work?
 
